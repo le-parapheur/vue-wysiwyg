@@ -8,7 +8,6 @@ import spanish from "./spanish";
 export default {
     dutch,
     hungarian,
-    german,
     english,
     portuguese,
     spanish,

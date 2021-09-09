@@ -1,6 +1,6 @@
 {
-  "name": "vue-wysiwyg",
-  "version": "1.7.2",
+  "name": "vue-wysiwyg-without-dropzone",
+  "version": "1.7.3",
   "description": "A WYSIWYG HTML editor for Vue.js",
   "keywords": [
     "vue",
@@ -22,8 +22,7 @@
   },
   "dependencies": {
     "debounce": "^1.1.0",
-    "vue": "^2.5.13",
-    "vue2-dropzone": "^3.0.4"
+    "vue": "^2.5.13"
   },
   "devDependencies": {
     "autoprefixer": "^8.0.0",
